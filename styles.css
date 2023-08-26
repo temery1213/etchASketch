@@ -13,6 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: blanchedalmond;
 }
 
 h1 {
@@ -30,6 +31,7 @@ h1 {
     width: 400px;
     height: 400px;
     overflow: hidden;
+    background-color: white;
 }
 
 .squares {
